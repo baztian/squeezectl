@@ -9,7 +9,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
   name = 'squeezectl',
   py_modules=['squeezectl'],
-  version = '0.0.0',
+  version = '0.0.1',
   license='Apache',
   description = 'Control Logitech Media Server and Squeezebox from command line',
   long_description=long_description,
